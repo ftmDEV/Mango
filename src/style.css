@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    /* font-family: 'EB Garamond', serif; */
+    font-family: 'Quicksand', sans-serif;
+    text-transform: capitalize;
+}
+li{
+    list-style: none;
+    text-transform: capitalize;
+}
+button{
+    cursor:pointer;
+    outline: none;
+    border: none;
+}
+input{
+    border:none;
+    outline: none;
+}
+.title{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 3%;
+}
+.flex{
+    display:flex;
+
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.flex-center{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.grid-3{
+    display:grid;
+    grid-template-columns:repeat(3,33%)
+}

@@ -1,0 +1,431 @@
+{
+    "bags": [
+        {
+            "id": 1,
+            "name": "Wool-blend",
+            "price": 99,
+            "type": "shopper",
+            "sex": "women",
+            "image": "img/WBAG/1.webp",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 13,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Croc-effect ",
+            "price": 89,
+            "type": "shopper",
+            "sex": "women",
+            "image": "img/WBAG/2.webp",
+            "color": [
+                "burlywood",
+                "black"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 11,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Croc-effect ",
+            "price": 89,
+            "type": "Prebled",
+            "sex": "women",
+            "image": "img/WBAG/3.webp",
+            "color": [
+                "lightgreen",
+                "black",
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 4,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Gingham-check ",
+            "price": 59,
+            "type": "Prebled",
+            "sex": "women",
+            "image": "img/WBAG/4.webp",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 7,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Pleated bucket",
+            "price": 59,
+            "type": "Prebled",
+            "sex": "women",
+            "image": "img/WBAG/5.webp",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 9,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Quilted chain ",
+            "price": 79,
+            "type": "Prebled",
+            "sex": "women",
+            "image": "img/WBAG/6.webp",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 0,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "cross body ",
+            "price": 29,
+            "type": "shoulder",
+            "sex": "women",
+            "image": "img/WBAG/7.webp",
+            "color": [
+                "brown",
+                "black"
+            ],
+            "collection": "new",
+            "isLiked": false,
+            "number": 0,
+            "balance": 2,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Basket mini ",
+            "price": 39,
+            "type": "shoulder",
+            "sex": "women",
+            "image": "img/WBAG/8.webp",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "collection": "new",
+            "number": 0,
+            "balance": 4,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Chain baguette ",
+            "price": 39,
+            "type": "shoulder",
+            "sex": "women",
+            "image": "img/WBAG/9.webp",
+            "color": [
+                "lightgreen",
+                "lightblue"
+            ],
+            "collection": "new",
+            "isLiked": false,
+            "number": 0,
+            "balance": 9,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Pleated bucket",
+            "price": 59,
+            "type": "small",
+            "sex": "women",
+            "image": "img/WBAG/10.webp",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 13,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "cruck effect",
+            "price": 79,
+            "type": "small",
+            "sex": "women",
+            "image": "img/WBAG/11.webp",
+            "color": [
+                "red"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 6,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Quilted backpack",
+            "price": 29,
+            "type": "sporty",
+            "sex": "women",
+            "image": "img/WBAG/12.webp",
+            "color": [
+                "black"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 8,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Gathered  ",
+            "price": 59,
+            "type": "sporty",
+            "sex": "women",
+            "image": "img/WBAG/13.webp",
+            "color": [
+                "black",
+                "lightgreen"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 9,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Side pocket",
+            "price": 49,
+            "type": "sporty",
+            "sex": "women",
+            "image": "img/WBAG/14.webp",
+            "color": [
+                "burlywood",
+                "pink"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 10,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Wool-blend",
+            "price": 99,
+            "type": "hand-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b1.jpg",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 13,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Croc-effect ",
+            "price": 89,
+            "type": "backpack",
+            "sex": "men",
+            "image": "img/mansBAG/b2.jpg",
+            "color": [
+                "burlywood",
+                "black"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 11,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Croc-effect ",
+            "price": 89,
+            "type": "hand-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b3.jpg",
+            "color": [
+                "burlywood",
+                "black",
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 4,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Gingham-check ",
+            "price": 59,
+            "type": "backpack",
+            "sex": "men",
+            "image": "img/mansBAG/b4.jpg",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 7,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Pleated bucket",
+            "price": 59,
+            "type": "backpack",
+            "sex": "men",
+            "image": "img/mansBAG/b5.jpg",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 9,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Quilted chain ",
+            "price": 79,
+            "type": "travel-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b6.jpg",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 0,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "cross body ",
+            "price": 29,
+            "type": "hand-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b7.jpg",
+            "color": [
+                "brown",
+                "black"
+            ],
+            "collection": "new",
+            "isLiked": false,
+            "number": 0,
+            "balance": 2,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Basket mini ",
+            "price": 39,
+            "type": "hand-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b8.jpg",
+            "color": [
+                "brown"
+            ],
+            "isLiked": false,
+            "collection": "new",
+            "number": 0,
+            "balance": 4,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Chain baguette ",
+            "price": 39,
+            "type": "travel-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b9.jpg",
+            "color": [
+                "lightgreen",
+                "lightblue"
+            ],
+            "collection": "new",
+            "isLiked": false,
+            "number": 0,
+            "balance": 9,
+            "size": [
+                "no-size"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Pleated bucket",
+            "price": 59,
+            "type": "hand-bag",
+            "sex": "men",
+            "image": "img/mansBAG/b10.jpg",
+            "color": [
+                "burlywood"
+            ],
+            "isLiked": false,
+            "number": 0,
+            "balance": 13,
+            "size": [
+                "no-size"
+            ]
+        }
+    ],
+    "shoes": []
+}

@@ -1,0 +1,317 @@
+{
+  "bags": [
+    {
+      "id": 1,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/1.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 2,
+      "name": "Croc-effect ",
+      "price": 89,
+      "type": "shopper",
+      "image": "img/2.webp",
+      "color": [
+        "beigh",
+        "black"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 11
+    },
+    {
+      "id": 3,
+      "name": "Croc-effect ",
+      "price": 89,
+      "type": "Prebled",
+      "image": "img/3.webp",
+      "color": [
+        "light brown",
+        "black",
+        "brown"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 4
+    },
+    {
+      "id": 4,
+      "name": "Gingham-check ",
+      "price": 59,
+      "type": "Prebled",
+      "image": "img/4.webp",
+      "color": [
+        "brown"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 7
+    },
+    {
+      "id": 5,
+      "name": "Pleated bucket",
+      "price": 59,
+      "type": "Prebled",
+      "image": "img/5.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 9
+    },
+    {
+      "id": 6,
+      "name": "Quilted chain ",
+      "price": 79,
+      "type": "Prebled",
+      "image": "img/6.webp",
+      "color": [
+        "brown"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 0
+    },
+    {
+      "id": 7,
+      "name": "cross body ",
+      "price": 29,
+      "type": "shoulder",
+      "image": "img/7.webp",
+      "color": [
+        "brown",
+        "black"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 2
+    },
+    {
+      "id": 8,
+      "name": "Basket mini ",
+      "price": 39,
+      "type": "shoulder",
+      "image": "img/8.webp",
+      "color": [
+        "brown"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 4
+    },
+    {
+      "id": 9,
+      "name": "Chain baguette ",
+      "price": 39,
+      "type": "shoulder",
+      "image": "img/9.webp",
+      "color": [
+        "light green",
+        "light blue"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 9
+    },
+    {
+      "id": 10,
+      "name": "Pleated bucket",
+      "price": 59,
+      "type": "small",
+      "image": "img/15.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 11,
+      "name": "cruck effect",
+      "price": 79,
+      "type": "small",
+      "image": "img/11.webp",
+      "color": [
+        "red"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 6
+    },
+    {
+      "id": 12,
+      "name": "Quilted backpack",
+      "price": 29,
+      "type": "sporty",
+      "image": "img/12.webp",
+      "color": [
+        "black"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 8
+    },
+    {
+      "id": 13,
+      "name": "Gathered  ",
+      "price": 59,
+      "type": "sporty",
+      "image": "img/13.webp",
+      "color": [
+        "black",
+        "green"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 9
+    },
+    {
+      "id": 14,
+      "name": "Side pocket",
+      "price": 49,
+      "type": "sporty",
+      "image": "img/14.webp",
+      "color": [
+        "beigh",
+        "pink"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 10
+    }
+  ],
+  "jeans": [
+    {
+      "id": 15,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d1.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 16,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d2.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 17,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d3.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 18,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d4.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    }
+  ],
+  "dresses": [
+    {
+      "id": 19,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d1.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 20,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d2.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 21,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d3.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    },
+    {
+      "id": 22,
+      "name": "Wool-blend",
+      "price": 99,
+      "type": "shopper",
+      "image": "img/d4.webp",
+      "color": [
+        "beigh"
+      ],
+      "isLiked": false,
+      "number": 0,
+      "balance": 13
+    }
+  ],
+  "user": [
+    {
+      "name": "fatemeh",
+      "password": "2285",
+      "email": "f@gmail.com",
+      "gender": "men",
+      "id": 1
+    },
+    {
+      "name": "gekrj",
+      "password": "654635",
+      "email": "f@gmail.com",
+      "gender": "men",
+      "id": 2
+    }
+  ]
+}
